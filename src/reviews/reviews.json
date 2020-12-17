@@ -1,0 +1,25 @@
+[
+  {
+    "comment": "This sucks. If you want to waste your money, click PURCHASE. Honsetly, you'd think they would try better after their last failure. Absolutley abysmal",
+    "rate": 1,
+    "productID": "5d318e1a8541744830bef139",
+    "_id": "59dtt6m4kik3k7nv",
+    "modifiedAt": "2020-12-11T09:58:25.481Z",
+    "createdAt": "2020-12-11T09:57:49.387Z"
+  },
+  {
+    "comment": "eh. its an okay product. nothing especially good or bad about it. *yaaaaawn*",
+    "rate": 3,
+    "productID": "1h8k79gkik35saq",
+    "_id": "59dttalckik4fesr",
+    "modifiedAt": "2020-12-11T10:22:55.394Z",
+    "createdAt": "2020-12-11T10:22:04.970Z"
+  },
+  {
+    "comment": "Its as hard as a rock... Not much else to say",
+    "rate": 4,
+    "productID": "1h8k79gkik35saq",
+    "_id": "59dtt89gkik8xepn",
+    "createdAt": "2020-12-11T12:28:03.130Z"
+  }
+]
